@@ -7,6 +7,7 @@
 #define HRML(k1, k2, k3, k4) &hm LALT k1  &hm LCTRL k2  &hm LSHFT k3  &hm LGUI k4
 #define HRMR(k1, k2, k3, k4) &hm RGUI k1  &hm RSHFT k2  &hm RCTRL k3  &hm RALT k4
 
+
 / {
     behaviors {
       #include "macros.dtsi"
